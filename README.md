@@ -40,5 +40,5 @@ Returns a clean structured response:
   "issuer": "IBM",
   "tags": ["Python", "Data Analysis"],
   "status": "Real",
-  "tier": "Tier 1"
+  "tier": "Tier 3"
 }
