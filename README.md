@@ -42,5 +42,3 @@ Returns a clean structured response:
   "status": "Real",
   "tier": "Tier 1"
 }
- |
-| Optional ML      | Scikit-Learn  |
